@@ -1,0 +1,292 @@
+[
+    {
+        "collection_name": "Bureau of Economic Analysis Blog",
+        "source_url": "https://www.bea.gov/news/blog",
+        "table_name": "article_objects",
+        "title": "BEA Blog | U.S. Bureau of Economic Analysis",
+        "topic": "Economy",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Bureau of Economic Analysis - Survey of Current Business",
+        "source_url": "https://apps.bea.gov/scb/",
+        "table_name": "article_objects",
+        "title": "Survey of Current Business | U.S. Bureau of Economic Analysis",
+        "topic": "Economy",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Environmental Protection Agency News Releases",
+        "source_url": "https://www.epa.gov/newsreleases/search?f%5B0%5D=news_releases_language%3Aen",
+        "table_name": "article_objects",
+        "title": "News Releases | US Environmental Protection Agency",
+        "topic": "Environment",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "National Weather Service News",
+        "source_url": "https://www.weather.gov/news/",
+        "table_name": "article_objects",
+        "title": "News | National Weather Service",
+        "topic": "Weather",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Alaska Governor's Newsroom",
+        "source_url": "https://gov.alaska.gov/newsroom/",
+        "table_name": "article_objects",
+        "title": "Newsroom | Office of the Governor of Alaska",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "White House News",
+        "source_url": "https://www.whitehouse.gov/news/",
+        "table_name": "article_objects",
+        "title": "News | The White House",
+        "topic": "Federal Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Iowa Governor's Newsroom",
+        "source_url": "https://governor.iowa.gov/newsroom",
+        "table_name": "article_objects",
+        "title": "Newsroom | Office of the Governor of Iowa",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "NYC Mayor's Office News",
+        "source_url": "https://www.nyc.gov/office-of-the-mayor/news.page",
+        "table_name": "article_objects",
+        "title": "News | Office of the Mayor of New York City",
+        "topic": "Local Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Colorado Governor's News",
+        "source_url": "https://www.colorado.gov/governor/news",
+        "table_name": "article_objects",
+        "title": "News | Office of the Governor of Colorado",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Georgia Governor's Press Releases",
+        "source_url": "https://gov.georgia.gov/press-releases",
+        "table_name": "article_objects",
+        "title": "Press Releases | Office of the Governor of Georgia",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Connecticut Governor's Press Releases",
+        "source_url": "https://portal.ct.gov/governor/news/press-releases?language=en_US",
+        "table_name": "article_objects",
+        "title": "Press Releases | Office of the Governor of Connecticut",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Indiana Governor's Events",
+        "source_url": "https://events.in.gov/gov",
+        "table_name": "article_objects",
+        "title": "Events | Office of the Governor of Indiana",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Louisiana Governor's Newsroom",
+        "source_url": "https://gov.louisiana.gov/index.cfm/newsroom/home",
+        "table_name": "article_objects",
+        "title": "Newsroom | Office of the Governor of Louisiana",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Maine Governor's Newsroom",
+        "source_url": "https://www.maine.gov/governor/mills/newsroom",
+        "table_name": "article_objects",
+        "title": "Newsroom | Office of the Governor of Maine",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Massachusetts Governor's News",
+        "source_url": "https://www.mass.gov/orgs/governor-maura-healey-and-lt-governor-kim-driscoll/news",
+        "table_name": "article_objects",
+        "title": "News | Office of the Governor of Massachusetts",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Michigan Governor's News Wire",
+        "source_url": "https://www.michigan.gov/som/minewswire",
+        "table_name": "article_objects",
+        "title": "MI Newswire | State of Michigan",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Missouri Governor's Press Releases",
+        "source_url": "https://governor.mo.gov/press-releases",
+        "table_name": "article_objects",
+        "title": "Press Releases | Office of the Governor of Missouri",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Nebraska Governor's Office",
+        "source_url": "https://governor.nebraska.gov/",
+        "table_name": "article_objects",
+        "title": "Office of the Governor of Nebraska",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "New York Governor's News",
+        "source_url": "https://www.governor.ny.gov/news",
+        "table_name": "article_objects",
+        "title": "News | Office of the Governor of New York",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Oregon Newsroom",
+        "source_url": "https://apps.oregon.gov/oregon-newsroom/OR/Posts/Search?x=y&",
+        "table_name": "article_objects",
+        "title": "Oregon Newsroom | State of Oregon",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Pennsylvania Cast",
+        "source_url": "https://pacast.com",
+        "table_name": "article_objects",
+        "title": "PAcast | Commonwealth Media Services",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Pennsylvania Governor's Newsroom",
+        "source_url": "https://www.pa.gov/governor/newsroom.html#sortCriteria=%40copapwpeffectivedate%20descending",
+        "table_name": "article_objects",
+        "title": "Newsroom | Office of the Governor of Pennsylvania",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Puerto Rico Government Communications",
+        "source_url": "https://www.estado.pr.gov/comunicados",
+        "table_name": "article_objects",
+        "title": "Comunicados | Gobierno de Puerto Rico",
+        "topic": "Territory Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "South Carolina Governor's News",
+        "source_url": "https://governor.sc.gov/news",
+        "table_name": "article_objects",
+        "title": "News | Office of the Governor of South Carolina",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "South Dakota Governor's Press Releases",
+        "source_url": "https://governor.sd.gov/news/press-releases.aspx",
+        "table_name": "article_objects",
+        "title": "Press Releases | Office of the Governor of South Dakota",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Tennessee Governor's News",
+        "source_url": "https://www.tn.gov/governor/news.html",
+        "table_name": "article_objects",
+        "title": "News | Office of the Governor of Tennessee",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Wisconsin Governor's Press Releases",
+        "source_url": "https://evers.wi.gov/Pages/Newsroom/Press-Releases.aspx",
+        "table_name": "article_objects",
+        "title": "Press Releases | Office of the Governor of Wisconsin",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "Wyoming Governor's News Releases",
+        "source_url": "https://governor.wyo.gov/news-releases",
+        "table_name": "article_objects",
+        "title": "News Releases | Office of the Governor of Wyoming",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    },
+    {
+        "collection_name": "West Virginia Governor's News",
+        "source_url": "https://governor.wv.gov/news",
+        "table_name": "article_objects",
+        "title": "News | Office of the Governor of West Virginia",
+        "topic": "State Government",
+        "image_url": null,
+        "country": "United States",
+        "branch": "Executive"
+    }
+]
